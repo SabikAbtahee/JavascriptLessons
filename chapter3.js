@@ -7,6 +7,8 @@
 // Immediately invoked function expresion
 // Expressed Function Cannot be used before initialization because of hoisting
 // paremeter vs argument
+// Too many arguments, Less arguments
+// 
 
 function declared() {
 	console.log("Function Declaration");
